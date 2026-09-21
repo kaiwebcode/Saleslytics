@@ -1,0 +1,7 @@
+Date,Retailer,Product,Quantity,Regular Price,Promotion Price
+2026-09-01,Retailer A,Milk,10,60,55
+2026-09-01,Retailer B,Bread,20,40,35
+2026-09-02,Retailer A,Milk,15,60,50
+2026-09-03,Retailer C,Juice,8,100,90
+2026-09-04,Retailer B,Bread,12,40,
+2026-09-05,Retailer A,Juice,5,100,85
